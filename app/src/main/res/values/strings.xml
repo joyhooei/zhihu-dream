@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">zhihuNews</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="news">zhihu News</string>
+    <string name="hot">zhihu Hots</string>
+
+    <string name="version">Version1.0</string>
+    <string name="libs">Libs</string>
+    <string name="thinks">Thinks</string>
+    <string name="libs_content">butterKnife\nandroidaboutpage\ncode19library\nsmartTabLayout\nrealm\npicasso\nretrofit2\nrxjava\ngson\nokhttp\nsystembartintManager\nnineoldandroids\nmaterialdialog\nmaterialdesignlibrary</string>
+    <string name="thinks_content">My English is poor...</string>
+    <string name="description"></string>
+    <string name="email">dreamcontinue.cd@gmail.com</string>
+    <string name="twitter">yaki_er</string>
+    <string name="website">http://danyang.party/wordpress</string>
+    <string name="github">dreamcontinue/zhihu-dream</string>
+    <string name="author">梦的延续</string>
+
+    <string name="theme_color">Theme color</string>
+    <string name="night_model">Night model</string>
+    <string name="no_pic">No picture in data</string>
+    <string name="about">About</string>
+    <string name="others">Others</string>
+
+    <string name="choose_color">Choose a theme color</string>
+    <string name="ok">OK</string>
+</resources>

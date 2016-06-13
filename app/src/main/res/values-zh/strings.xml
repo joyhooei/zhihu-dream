@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">知乎报</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">设置</string>
+
+    <string name="news">知乎日报</string>
+    <string name="hot">知乎热点</string>
+
+    <string name="version">版本1.0</string>
+    <string name="libs">开源库</string>
+    <string name="thinks">致谢</string>
+    <string name="libs_content">butterKnife\nandroidaboutpage\ncode19library\nsmartTabLayout\nrealm\npicasso\nretrofit2\nrxjava\ngson\nokhttp\nsystembartintManager\nnineoldandroids\nmaterialdialog\nmaterialdesignlibrary</string>
+    <string name="thinks_content">感谢知乎团队\n感谢Xiao Liang的知乎API分析\n感谢我用到所有开源库的作者们\n感谢支持我的用户们</string>
+    <string name="description">本应用系第三方个人开发，非知乎官方应用，如有侵犯知乎权益，本人将第一时间撤回本应用。
+        \n使用过程中因违反知乎用户协议等条例的，本人一概不负责。如果有什么好的意见及建议的，欢迎通过以下方式联系我并提出您宝贵的意见。</string>
+    <string name="email">dreamcontinue.cd@gmail.com</string>
+    <string name="twitter">yaki_er</string>
+    <string name="website">http://danyang.party/wordpress</string>
+    <string name="github">dreamcontinue/zhihu-dream</string>
+    <string name="author">梦的延续</string>
+
+    <string name="theme_color">主题颜色</string>
+    <string name="night_model">夜间模式</string>
+    <string name="no_pic">流量无图</string>
+    <string name="about">关于</string>
+    <string name="others">其他</string>
+
+    <string name="choose_color">选择主题颜色</string>
+    <string name="ok">确认</string>
+</resources>
